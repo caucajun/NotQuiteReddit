@@ -6,8 +6,8 @@
 
 <html>
 	<body>
-		<a href="http://coding.caucajun.com/index.php">Home</a> - 
-		<a href="http://coding.caucajun.com/new_user.php">Sign Up</a> - 
-		<a href="http://coding.caucajun.com/user_login.php">Login</a> 
+		<a href="http://coding.caucajun.com/original/index.php">Home</a> - 
+		<a href="http://coding.caucajun.com/original/new_user.php">Sign Up</a> - 
+		<a href="http://coding.caucajun.com/original/user_login.php">Login</a> 
 	</body>
 </html>
