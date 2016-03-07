@@ -1,5 +1,5 @@
 
-    @extends('layouts.partials.master')
+    @extends('layouts.masters.main')
 
     <div class="container">
 
