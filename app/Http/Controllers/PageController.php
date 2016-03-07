@@ -8,5 +8,9 @@ use App\Http\Requests;
 
 class PageController extends Controller
 {
-    //
+  public funcion home()
+  {
+    return view('pages.home');
+  }
+
 }
