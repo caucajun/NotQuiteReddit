@@ -1,9 +1,5 @@
 
-    @extends('layouts.partials.master')
-
     <div class="container">
-
-      @include('layouts.partials.login')
 
       <form class="form-signin">
         <h2 class="form-signin-heading">Welcome to NotQuiteReddit!</h2>
@@ -19,5 +15,4 @@
         <button class="btn btn-lg btn-primary btn-block" type="submit">Sign In Now!</button>
       </form>
 
-    </div> 
-
+    </div> <!-- /container -->
